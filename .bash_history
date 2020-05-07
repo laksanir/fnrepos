@@ -653,3 +653,30 @@ ls -l
 vi oci_api_key_public.pem
 clear
 git init
+git add .
+git config user.email "niranjanal@hotmail.com"
+git config user.name "laksanir"
+git commit -m "First commit"
+clear
+git remote add origin https://github.com/laksanir/Fnrepo.git
+git remote -v
+git push origin master
+ls -l
+rmdir config
+rmdir -a config
+rmdir -r config
+rm -r config
+rm 0r demoappnew1
+rm -r demoappnew1
+Y
+ls -l
+rm -r docker-compose
+rm -r docker-compose.yml
+rm -r my*
+rm -r hello*
+rm -r node*
+rm -r prom*
+rm -r tuto*
+clear
+ls -l
+git init
