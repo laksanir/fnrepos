@@ -1,0 +1,7 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaatyyxiodpn343b3rlwp7kpqulxb6lsa4yskeo6eorea5ei62yrh7q
+fingerprint=1d:01:f6:99:ae:8b:59:2b:da:7d:ea:07:84:f5:df:83
+key_file=/home/lab_user08/.oci/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaiukyimmix4qqwetjmpb6zreg3vvepkrtimiekjftvh5obqvoyswa
+region=us-ashburn-1
+pass_phrase=oracle
